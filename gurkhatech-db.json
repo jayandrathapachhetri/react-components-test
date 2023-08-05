@@ -1,28 +1,25 @@
 {
   "internAttadance": [
     {
-      "id": 1,
-      "name": "Jayandra Thapa",
-      "category": "Frontend",
-      "description": "Hello, It’s me Jayandra Thapa. I'm a passionate frontend developer with a strong foundation in HTML, CSS, and JavaScript. I have completed several personal projects where I enhanced my skills in creating responsive and user-friendly websites. I'm excited about this internship opportunity because it will allow me to apply my knowledge in a professional setting and further develop my skills under the guidance of experienced mentors.",
-      "image": "Images/Jayandra.jpg",
-      "present": 5
+      "name": "Jay Thapa",
+      "email": "jay@test.com",
+      "password": "jay@t123",
+      "present": 4,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Niroj Lama",
-      "category": "Flutter",
-      "description": "It was a legitimate surprise when the conservative-dominated US Supreme Court ordered Alabama’s conservative-dominated state government last month to redraw its congressional map and include either a second majority-Black congressional district or something q…",
-      "image": "Images/niroj.jpg",
-      "present": 3
+      "name": "Surendra Thapa",
+      "email": "surendra@test.com",
+      "password": "surendra@123",
+      "present": 7,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Asmit Adhikari",
-      "category": "Blockchain",
-      "description": "It was a legitimate surprise when the conservative-dominated US Supreme Court ordered Alabama’s conservative-dominated state government last month to redraw its congressional map and include either a second majority-Black congressional district or something q…",
-      "image": "Images/Asmit.jpg",
-      "present": 1
+      "name": "hero Thapa",
+      "email": "jay@test.com",
+      "password": "jay@t123",
+      "present": 6,
+      "id": 3
     }
   ]
 }
