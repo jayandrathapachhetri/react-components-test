@@ -4,24 +4,24 @@
       "name": "Jay Thapa",
       "email": "jay@test.com",
       "password": "jay@t123",
-      "present_day": 20,
-      "absent_day": 12,
+      "present_day": 22,
+      "absent_day": 17,
       "id": 1
     },
     {
       "name": "Surendra Thapa",
       "email": "surendra@test.com",
       "password": "surendra@123",
-      "present_day": 16,
-      "absent_day": 12,
+      "present_day": 18,
+      "absent_day": 17,
       "id": 2
     },
     {
-      "name": "hero Thapa",
-      "email": "jay@test.com",
-      "password": "jay@t123",
-      "present_day": 16,
-      "absent_day": 14,
+      "name": "Asmit Adhikari",
+      "email": "asmit@test.com",
+      "password": "asmit@t123",
+      "present_day": 29,
+      "absent_day": 18,
       "id": 3
     }
   ]
