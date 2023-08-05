@@ -1,10 +1,10 @@
 import React from 'react'
 
-function AttadanceInfo({count1, name}) {
+function AttadanceInfo({present}) {
   return (
     <div>
       <h2>AttdanceInfo</h2>
-      <p>the count of {name}:{count1}</p>
+      <p>the count of name :{present}</p>
     </div>
   )
 }

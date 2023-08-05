@@ -4,21 +4,24 @@
       "name": "Jay Thapa",
       "email": "jay@test.com",
       "password": "jay@t123",
-      "present": 4,
+      "present_day": 20,
+      "absent_day": 12,
       "id": 1
     },
     {
       "name": "Surendra Thapa",
       "email": "surendra@test.com",
       "password": "surendra@123",
-      "present": 7,
+      "present_day": 16,
+      "absent_day": 12,
       "id": 2
     },
     {
       "name": "hero Thapa",
       "email": "jay@test.com",
       "password": "jay@t123",
-      "present": 6,
+      "present_day": 16,
+      "absent_day": 14,
       "id": 3
     }
   ]
